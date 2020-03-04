@@ -17,7 +17,7 @@ bool Guess(int number) {
 	return false;
 }
 int main(array<System::String^>^ args)
-{
+{      
 	int guess;
 	do {
 		std::cin >> guess;
